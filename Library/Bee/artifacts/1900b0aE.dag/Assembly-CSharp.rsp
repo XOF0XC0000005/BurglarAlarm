@@ -330,6 +330,9 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.EditorCoroutines.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Performance.Profile-Analyzer.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Recorder.Base.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Recorder.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Recorder.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Rider.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.Sysroot.Linux_x86_64.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.SysrootPackage.Editor.ref.dll"
@@ -353,9 +356,10 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
-"Assets/Alarm/Script/AlarmTrigger.cs"
-"Assets/Burglar/Scripts/Burglar.cs"
-"Assets/Burglar/Scripts/Movement.cs"
+"Assets/Script/AlarmTrigger.cs"
+"Assets/Script/Burglar.cs"
+"Assets/Script/EntranceChecker.cs"
+"Assets/Script/Movement.cs"
 -langversion:9.0
 
 /deterministic
